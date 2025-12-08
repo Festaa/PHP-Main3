@@ -1,7 +1,7 @@
 <?php
 
 $x=5;
-echo gettype($x) . "<br>";
+echo gettype($x) ."<br> ";
 
 
 $y=10.3;
